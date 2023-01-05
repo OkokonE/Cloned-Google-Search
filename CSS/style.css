@@ -392,6 +392,34 @@ body {
     margin-right: 100px;
     justify-content: space-between;
   }
+  /* Section Left */
+  .topstories h1{
+    color: #202124;
+  }
+  .Nap{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 0px;
+    padding: 0;
+    height: 10px;
+  }
+  .Nap img{
+    width: 10px;
+    margin-left: 5px;
+  }
+  .Nap p{
+    font-size: 22px;
+  }
+  .Nap a{
+    text-decoration: none;
+    color: #202124;
+  }
+  .Nap a:hover{
+    text-decoration: underline;
+  }
+  /* Section Right */
   .sectionright{
     width: 30%;
     border-left: 1px solid #dadce0;
